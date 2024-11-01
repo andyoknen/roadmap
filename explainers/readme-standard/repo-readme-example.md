@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/img/bastyon-logo-256x256.png" width="196" alt="bastyon logo">
+  <img src="https://github.com/pocketnetteam/get.started/blob/main/assets/img/bastyon-logo-256x256.png" width="196" alt="bastyon logo">
 </div>
 
 <div align="center">
